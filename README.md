@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bouachalazhar
+- 👋 Hi, I’m Bouacha Lazhar
 - 👀 I’m interested in Machine/Deep Learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Neural Networks
