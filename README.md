@@ -9,6 +9,10 @@ bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.linkedin.com/in/bouachalazhar/" rel="nofollow">
-  <img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/logos/linkedin.png" width="40" style="max-width: 100%;padding-left: 20px;">
+
+<a class="linkedin" href="https://www.linkedin.com/in/bouachalazhar/" rel="nofollow">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/logos/linkedin.png" width="40" style="max-width: 100%;">
 </a>
+
+
+
