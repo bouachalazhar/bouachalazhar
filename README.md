@@ -11,8 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <a class="linkedin" href="https://www.linkedin.com/in/bouachalazhar/" rel="nofollow">
-  &emsp;&nbsp;&nbsp;<img src="https://github.com/ashutosh1919/ashutosh1919/raw/master/logos/linkedin.png" width="40" style="max-width: 100%;">
+  &emsp;&nbsp;&nbsp;<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" width="100" height="25" style="max-width: 100%;">
 </a>
-
-
-
