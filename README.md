@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 &emsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bouachalazhar/" rel="nofollow" target="_blank">
+<a href="https://www.linkedin.com/in/bouachalazhar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40" style="max-width: 100%;">
 </a>
