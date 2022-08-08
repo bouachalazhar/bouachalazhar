@@ -1,4 +1,4 @@
-#### - 👋 Hi, I’m Bouacha Lazhar
+#### - 👋 Hi, I’m Lazhar Bouacha
 #### - 👀 I’m interested in AI
 #### - 🌱 I’m currently learning Machine/Deep learning
 #### - 💞️ I’m looking to collaborate on Spiking Neural Networks, NLP, computer vision and Transformers
