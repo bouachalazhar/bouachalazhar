@@ -9,13 +9,17 @@ bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> 
-    &nbsp; <a href="https://www.linkedin.com/in/bouachalazhar/" target="_blank">
-        <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="auto" height="40" style="max-width: 100%;">
-    </a>
-    &nbsp; <a href="https://www.kaggle.com/bouachalazhar" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="auto" height="30" style="max-width: 100%;">
-    </a>
+<p align="left">
+
+    <div style="background: red">
+        <a href="https://www.linkedin.com/in/bouachalazhar/" target="_blank">
+            <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="auto" height="40" style="max-width: 100%;"></a>
+    </div>
+    <div>
+        <a href="https://www.kaggle.com/bouachalazhar" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="auto" height="30" style="max-width: 100%;">
+        </a>
+    </div>
     &nbsp; <a href="https://stackoverflow.com/users/13450899/bouachalazhar" target="_blank">
         <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" width="auto" height="40" style="max-width: 100%;">
     </a>
