@@ -7,7 +7,7 @@
 <!---
 bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
+--->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
-    <div style="text-decoration: center;">
+    <div class="contact">
         <a href="linkedin.com/in/bouachalazhar/" target="_blank">
             <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="auto" height="40">
         </a>

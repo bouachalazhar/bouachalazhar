@@ -1,11 +1,18 @@
-.contact {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
+a {
+    display: inline-block;
+    background: #69c;
+    color: #fff;
+    padding: 5px 10px;
+  }
 
-.contact li{
-  display: inline-flex;
-  align-items: center;
-  padding: 0 1px;
-}
+.contact {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contact a{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 1px;
+  }
