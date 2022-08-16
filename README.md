@@ -9,10 +9,11 @@ bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 -->
 
-[<img alt="alt_text" width="auto" height="40" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/bouachalazhar/)
+&nbsp;
+[<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184871886-684aa9d8-44e9-4bc3-b007-3307fa1409d9.png" />](https://www.linkedin.com/in/bouachalazhar/)
 &emsp;
-[<img alt="alt_text" width="auto" height="40" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/13450899/bouachalazhar)
+[<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184872213-d39d0096-0d6b-4418-9400-1e5ec5fe0651.png" />](https://stackoverflow.com/users/13450899/bouachalazhar)
 &emsp;
-[<img alt="alt_text" width="auto" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](https://www.kaggle.com/bouachalazhar)
+[<img width="auto" height="40" onclick="window.open('anotherpage.html', '_blank');" src="https://user-images.githubusercontent.com/78004884/184872408-31961c73-b58a-4a34-b3aa-486706e66172.png" />](https://www.kaggle.com/bouachalazhar)
 
 
