@@ -9,10 +9,10 @@ bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 -->
 
-[<img alt="alt_text" width="auto" height="40" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](linkedin.com/in/bouachalazhar/)
+[<img alt="alt_text" width="auto" height="40" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/bouachalazhar/)
 &emsp;
-[<img alt="alt_text" width="auto" height="40" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](stackoverflow.com/users/13450899/bouachalazhar/)
+[<img alt="alt_text" width="auto" height="40" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />](https://stackoverflow.com/users/13450899/bouachalazhar)
 &emsp;
-[<img alt="alt_text" width="auto" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](kaggle.com/bouachalazhar)
+[<img alt="alt_text" width="auto" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />](https://www.kaggle.com/bouachalazhar)
 
 
