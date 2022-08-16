@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 -->
 
 &nbsp;
-<a href="https://www.linkedin.com/in/bouachalazhar/" target="_blank">
-  <img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184871886-684aa9d8-44e9-4bc3-b007-3307fa1409d9.png" />
+<a target="_blank" href="#" onClick='test(this)'>
+  [<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184871886-684aa9d8-44e9-4bc3-b007-3307fa1409d9.png" />](https://www.linkedin.com/in/bouachalazhar/)
 </a>
 &emsp;
 [<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184872213-d39d0096-0d6b-4418-9400-1e5ec5fe0651.png" />](https://stackoverflow.com/users/13450899/bouachalazhar)
