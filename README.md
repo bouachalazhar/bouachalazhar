@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 -->
 
 &nbsp;
-<a target="_blank" href="#" onClick='test(this)'>
+<a href="/" target="_blank">
   [<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184871886-684aa9d8-44e9-4bc3-b007-3307fa1409d9.png" />](https://www.linkedin.com/in/bouachalazhar/)
 </a>
 &emsp;
