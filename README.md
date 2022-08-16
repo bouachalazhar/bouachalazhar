@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 &emsp;
 [<img width="auto" height="40" src="https://user-images.githubusercontent.com/78004884/184872213-d39d0096-0d6b-4418-9400-1e5ec5fe0651.png" />](https://stackoverflow.com/users/13450899/bouachalazhar)
 &emsp;
-[<img width="auto" height="40" onclick="window.open('anotherpage.html', '_blank');" src="https://user-images.githubusercontent.com/78004884/184872408-31961c73-b58a-4a34-b3aa-486706e66172.png" />](https://www.kaggle.com/bouachalazhar)
+[<img width="auto" height="40" onclick="window.open('https://www.kaggle.com/bouachalazhar', '_blank');" src="https://user-images.githubusercontent.com/78004884/184872408-31961c73-b58a-4a34-b3aa-486706e66172.png" />](https://www.kaggle.com/bouachalazhar)
 
 
