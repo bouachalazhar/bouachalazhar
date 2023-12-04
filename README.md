@@ -2,7 +2,7 @@
 #### - 👀 I’m interested in AI
 #### - 🌱 I’m currently learning Machine/Deep learning
 #### - 💞️ I’m looking to collaborate on Spiking Neural Networks, NLP, Computer Vision and Transformers
-#### - 📫 How to reach me bouacha_lazhar@icloud.com
+#### - 📫 How to reach me bouachalazhar@icloud.com
 
 <!---
 bouachalazhar/bouachalazhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
